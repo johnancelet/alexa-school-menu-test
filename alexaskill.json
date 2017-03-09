@@ -1,0 +1,30 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "This skill allows users to ask for Kay Granger Elementary School for the menu for a given day.  Start by asking Sage for Gonzaga what is on the menu for today, tomorrow, or some other specific day.  It returns the main entrees first and allows the users to then continue to get other categories such as the soups, salads, and so on.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Kay Granger Elementary School what is being served tomorrow?",
+    "Alexa, ask Kay Granger Elementary School for the menu on April 1st?",
+    "Alexa, ask Kay Granger Elementary School what are they serving today?"
+  ],
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "imageAltText": "Lunch Menu for Kay Granger Elementary School",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DMS44XA/alexaskill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "Kay Granger Elementary School",
+  "name": "Lunch Menu for Kay Granger Elementary School",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Responds with the Kay Granger Elementary School menu items for a given day",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorName": "John Ancelet"
+}
